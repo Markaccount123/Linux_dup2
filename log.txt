@@ -1,0 +1,3 @@
+i like Linux! : write
+i like Linux! : printf
+i like Linux! : fprintf
